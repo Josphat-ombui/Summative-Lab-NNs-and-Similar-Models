@@ -1,0 +1,389 @@
+doc_id,kind,category,valid_categories,text,policy_type,effective_date
+pol1:Acceptable Items,policy,Textile Trash,['Textile Trash'],"Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals",Textile Trash Recycling Guidelines,2023-11-04
+pol1:Non-Acceptable Items,policy,Textile Trash,['Textile Trash'],"Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts",Textile Trash Recycling Guidelines,2023-11-04
+pol1:Collection Method,policy,Textile Trash,['Textile Trash'],"Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.",Textile Trash Recycling Guidelines,2023-11-04
+pol1:Preparation Instructions,policy,Textile Trash,['Textile Trash'],"Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together",Textile Trash Recycling Guidelines,2023-11-04
+pol1:Benefits,policy,Textile Trash,['Textile Trash'],"Benefits:
+Textile recycling conserves resources and reduces landfill waste.",Textile Trash Recycling Guidelines,2023-11-04
+pol2:Acceptable Items,policy,Glass,['Glass'],"Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers",Glass Recycling Guidelines,2023-01-24
+pol2:Non-Acceptable Items,policy,Glass,['Glass'],"Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass",Glass Recycling Guidelines,2023-01-24
+pol2:Collection Method,policy,Glass,['Glass'],"Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.",Glass Recycling Guidelines,2023-01-24
+pol2:Preparation Instructions,policy,Glass,['Glass'],"Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain",Glass Recycling Guidelines,2023-01-24
+pol2:Benefits,policy,Glass,['Glass'],"Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.",Glass Recycling Guidelines,2023-01-24
+pol3:Acceptable Items,policy,Food Organics,['Food Organics'],"Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food",Food Organics Recycling Guidelines,2023-05-08
+pol3:Non-Acceptable Items,policy,Food Organics,['Food Organics'],"Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil",Food Organics Recycling Guidelines,2023-05-08
+pol3:Collection Method,policy,Food Organics,['Food Organics'],"Collection Method:
+Use dedicated food waste bins lined with compostable bags.",Food Organics Recycling Guidelines,2023-05-08
+pol3:Preparation Instructions,policy,Food Organics,['Food Organics'],"Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required",Food Organics Recycling Guidelines,2023-05-08
+pol3:Benefits,policy,Food Organics,['Food Organics'],"Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.",Food Organics Recycling Guidelines,2023-05-08
+pol4:Acceptable Items,policy,Plastic,['Plastic'],"Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging",Plastic Recycling Guidelines,2023-04-05
+pol4:Non-Acceptable Items,policy,Plastic,['Plastic'],"Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers",Plastic Recycling Guidelines,2023-04-05
+pol4:Collection Method,policy,Plastic,['Plastic'],"Collection Method:
+Place in dedicated recycling bins. Check local guidelines for specific plastic types accepted.",Plastic Recycling Guidelines,2023-04-05
+pol4:Preparation Instructions,policy,Plastic,['Plastic'],"Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)",Plastic Recycling Guidelines,2023-04-05
+pol4:Benefits,policy,Plastic,['Plastic'],"Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.",Plastic Recycling Guidelines,2023-04-05
+pol5:Acceptable Items,policy,Vegetation,['Vegetation'],"Acceptable Items:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+- Tree prunings",Vegetation Recycling Guidelines,2023-12-04
+pol5:Non-Acceptable Items,policy,Vegetation,['Vegetation'],"Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation",Vegetation Recycling Guidelines,2023-12-04
+pol5:Collection Method,policy,Vegetation,['Vegetation'],"Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.",Vegetation Recycling Guidelines,2023-12-04
+pol5:Preparation Instructions,policy,Vegetation,['Vegetation'],"Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams",Vegetation Recycling Guidelines,2023-12-04
+pol5:Benefits,policy,Vegetation,['Vegetation'],"Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.",Vegetation Recycling Guidelines,2023-12-04
+pol6:Acceptable Items,policy,Cardboard,['Cardboard'],"Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard Recycling Guidelines,2023-11-24
+pol6:Non-Acceptable Items,policy,Cardboard,['Cardboard'],"Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts",Cardboard Recycling Guidelines,2023-11-24
+pol6:Collection Method,policy,Cardboard,['Cardboard'],"Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.",Cardboard Recycling Guidelines,2023-11-24
+pol6:Preparation Instructions,policy,Cardboard,['Cardboard'],"Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean",Cardboard Recycling Guidelines,2023-11-24
+pol6:Benefits,policy,Cardboard,['Cardboard'],"Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.",Cardboard Recycling Guidelines,2023-11-24
+pol7:Acceptable Items,policy,Metal,['Metal'],"Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers",Metal Recycling Guidelines,2023-09-03
+pol7:Non-Acceptable Items,policy,Metal,['Metal'],"Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet",Metal Recycling Guidelines,2023-09-03
+pol7:Collection Method,policy,Metal,['Metal'],"Collection Method:
+Place in recycling bins or take to metal recycling centers.",Metal Recycling Guidelines,2023-09-03
+pol7:Preparation Instructions,policy,Metal,['Metal'],"Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components",Metal Recycling Guidelines,2023-09-03
+pol7:Benefits,policy,Metal,['Metal'],"Benefits:
+Metal recycling saves significant energy compared to mining and processing raw materials.",Metal Recycling Guidelines,2023-09-03
+pol8:Acceptable Items,policy,Paper,['Paper'],"Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)",Paper Recycling Guidelines,2023-10-14
+pol8:Non-Acceptable Items,policy,Paper,['Paper'],"Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings",Paper Recycling Guidelines,2023-10-14
+pol8:Collection Method,policy,Paper,['Paper'],"Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.",Paper Recycling Guidelines,2023-10-14
+pol8:Preparation Instructions,policy,Paper,['Paper'],"Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents",Paper Recycling Guidelines,2023-10-14
+pol8:Benefits,policy,Paper,['Paper'],"Benefits:
+Paper recycling saves trees, reduces water pollution, and saves energy.",Paper Recycling Guidelines,2023-10-14
+pol9:Items That Cannot Be Recycled,policy,Miscellaneous Trash,['Miscellaneous Trash'],"Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash Recycling Guidelines,2023-01-01
+pol9:Special Handling Items,policy,Miscellaneous Trash,['Miscellaneous Trash'],"Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)",Miscellaneous Trash Recycling Guidelines,2023-01-01
+pol9:Waste Reduction Tips,policy,Miscellaneous Trash,['Miscellaneous Trash'],"Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging",Miscellaneous Trash Recycling Guidelines,2023-01-01
+pol9:Benefits,policy,Miscellaneous Trash,['Miscellaneous Trash'],"Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.",Miscellaneous Trash Recycling Guidelines,2023-01-01
+pol10:GENERAL REQUIREMENTS,policy,,"['Plastic', 'Miscellaneous Trash', 'Vegetation']","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Municipal Waste Guidelines,2023-10-01
+pol10:PLASTIC GUIDELINES,policy,Plastic,['Plastic'],"PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Municipal Waste Guidelines,2023-10-01
+pol10:MISCELLANEOUS TRASH GUIDELINES,policy,Miscellaneous Trash,['Miscellaneous Trash'],"MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Municipal Waste Guidelines,2023-10-01
+pol10:VEGETATION GUIDELINES,policy,Vegetation,['Vegetation'],"VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Municipal Waste Guidelines,2023-10-01
+pol11:GENERAL REQUIREMENTS,policy,,"['Plastic', 'Metal', 'Glass', 'Miscellaneous Trash', 'Vegetation']","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Residential Recycling Rules,2023-05-26
+pol11:PLASTIC GUIDELINES,policy,Plastic,['Plastic'],"PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Residential Recycling Rules,2023-05-26
+pol11:METAL GUIDELINES,policy,Metal,['Metal'],"METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Residential Recycling Rules,2023-05-26
+pol11:GLASS GUIDELINES,policy,Glass,['Glass'],"GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Residential Recycling Rules,2023-05-26
+pol11:MISCELLANEOUS TRASH GUIDELINES,policy,Miscellaneous Trash,['Miscellaneous Trash'],"MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Residential Recycling Rules,2023-05-26
+pol11:VEGETATION GUIDELINES,policy,Vegetation,['Vegetation'],"VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Residential Recycling Rules,2023-05-26
+pol12:GENERAL REQUIREMENTS,policy,,"['Food Organics', 'Metal', 'Miscellaneous Trash']","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Commercial Recycling Standards,2023-05-05
+pol12:FOOD ORGANICS GUIDELINES,policy,Food Organics,['Food Organics'],"FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags",Commercial Recycling Standards,2023-05-05
+pol12:METAL GUIDELINES,policy,Metal,['Metal'],"METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Commercial Recycling Standards,2023-05-05
+pol12:MISCELLANEOUS TRASH GUIDELINES,policy,Miscellaneous Trash,['Miscellaneous Trash'],"MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Commercial Recycling Standards,2023-05-05
+pol13:GENERAL REQUIREMENTS,policy,,"['Cardboard', 'Glass', 'Textile Trash']","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Multi-Unit Building Guidelines,2023-07-04
+pol13:CARDBOARD GUIDELINES,policy,Cardboard,['Cardboard'],"CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Multi-Unit Building Guidelines,2023-07-04
+pol13:GLASS GUIDELINES,policy,Glass,['Glass'],"GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Multi-Unit Building Guidelines,2023-07-04
+pol13:TEXTILE TRASH GUIDELINES,policy,Textile Trash,['Textile Trash'],"TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Multi-Unit Building Guidelines,2023-07-04
+pol14:GENERAL REQUIREMENTS,policy,,"['Cardboard', 'Vegetation', 'Metal', 'Textile Trash']","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Community Recycling Program,2023-12-15
+pol14:CARDBOARD GUIDELINES,policy,Cardboard,['Cardboard'],"CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Community Recycling Program,2023-12-15
+pol14:VEGETATION GUIDELINES,policy,Vegetation,['Vegetation'],"VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Community Recycling Program,2023-12-15
+pol14:METAL GUIDELINES,policy,Metal,['Metal'],"METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Community Recycling Program,2023-12-15
+pol14:TEXTILE TRASH GUIDELINES,policy,Textile Trash,['Textile Trash'],"TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Community Recycling Program,2023-12-15
+advice:Cardboard,advice,Cardboard,['Cardboard'],"Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.",residential-advice,
+advice:Food Organics,advice,Food Organics,['Food Organics'],"Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.",residential-advice,
+advice:Glass,advice,Glass,['Glass'],"Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.",residential-advice,
+advice:Metal,advice,Metal,['Metal'],"Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.",residential-advice,
+advice:Miscellaneous Trash,advice,Miscellaneous Trash,['Miscellaneous Trash'],"Resident disposal advice for Miscellaneous Trash waste items:
+- Hazardous items like batteries require special disposal.
+- Electronics should be taken to e-waste collection points.
+- Check for recyclable components before disposal.
+- Place truly non-recyclable items in general waste.
+- Consider if items can be repaired or repurposed.
+Common confusions:
+- Check for hidden recyclable components before disposal.",residential-advice,
+advice:Paper,advice,Paper,['Paper'],"Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.",residential-advice,
+advice:Plastic,advice,Plastic,['Plastic'],"Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.",residential-advice,
+advice:Textile Trash,advice,Textile Trash,['Textile Trash'],"Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.",residential-advice,
+advice:Vegetation,advice,Vegetation,['Vegetation'],"Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.",residential-advice,

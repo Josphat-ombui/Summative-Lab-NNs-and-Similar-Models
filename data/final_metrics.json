@@ -1,0 +1,23 @@
+{
+  "CNN (image)": {
+    "frozen-224 head test acc": 0.8022,
+    "fine-tuned test acc": 0.7321,
+    "worst class (recall)": "Miscellaneous Trash"
+  },
+  "Text classification": {
+    "LogReg+TF-IDF test acc": 1.0,
+    "BiLSTM test acc": 1.0,
+    "worst error pair": "none (winner is perfect on test)"
+  },
+  "RAG retrieval": {
+    "hit@3 (pure embedding)": 1.0,
+    "precision@3 (pure)": 0.9073888888888888,
+    "hit@3 (category-aware)": 1.0,
+    "precision@3 (category-aware)": 1.0
+  },
+  "RAG generation": {
+    "ROUGE-1 vs top-1 doc": 0.331,
+    "ROUGE-L vs top-1 doc": 0.274,
+    "faithfulness-jaccard": 0.095
+  }
+}

@@ -1,0 +1,132 @@
+category,generated_words,R1_vs_top1,R2_vs_top1,ROUGE_L_vs_top1,jaccard_vs_ctx,generated,retrieved
+Cardboard,83,0.25,0.0,0.188,0.133,"Preperation instructions:
+ - Place in recycling bin or put in cardboard collection bins or taken to cardboard processing facilities.
+Recycling methods:
+-- Cut small pieces of paper into smaller groups (e...all types).
+- Wrap larger containers evenly so they don't break apart
+- Fold them back together if possible
+- Take separate bags from different locations
+- Check common confusion about how to dispose of cardboard debris.
+Replace unused materials when appropriate
+- Rehear cards that contain no visible signs such as broken","Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean"
+Food Organics,65,0.455,0.143,0.364,0.11,"FOOD ORGIC GUIDs, GANILIANS:
+ - Fruit and vegetables items
+-- Foods or animals
+- Fish and poultry (especially meat and dairy).
+- Milk and eggs
+- Cereal waste
+- Water bottles
+- Refrigerate foods with water before disposal
+Answer : FOODORGNIES GUIDELS:
+Fruit and vegetable scrapes
+- Cheese residue
+- Vegetated debris
+- Plastic containers
+- Paper wrappers
+- Non-recyclable materials
+- Large amounts of","FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags"
+Glass,73,0.538,0.167,0.462,0.11,"Preperation instructions:
+ - Reuse plastic debris when properly cleaned.
+Reference : Preprepared materials with appropriate packaging guidelines.
+Recycling tips:
+Remove caps and Lid from containers or remove cap and lides (recyclate separate)
+/recycle separate
+- Laboratory labels must be separated prior use.
+Reusable jars and cans will still need to be reassembled after collection.
+Non-container plastic products that contain non-container parts such as cardboard boxes or paper bags should always be returned safely.","Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain"
+Metal,77,0.105,0.0,0.105,0.03,"Preperation instructions (preparations):
+- Reassemble container bags or separate boxes when necessary.
+Recycling tips:
+Remove all hazardous material from recyclables after appropriate collection procedures.
+Reassess packaging labels carefully so that properly sorted products can remain safely disposed.
+Removing debris may require additional cleanup efforts.
+Use common household cleaning techniques such as removing plastic wrap or placing trash back into bins.
+Reduce contamination by reducing amounts of organic matter.
+Apply chemical solutions at home without disturbing animals.
+Ref","Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components"
+Miscellaneous Trash,46,0.158,0.111,0.158,0.058,"Waste reduction tips can be found in general instructions on how to dispose of garbage.
+Reference :
+Wastewater Management Guide:
+Reference - Wasting Reduction Tips
+- Use only the references page for reference.
+- Check back regularly if applicable information is missing.
+Questions about disposal methods:","Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging"
+Paper,79,0.312,0.133,0.312,0.075,"Preperation instructions:
+-- Keep paper dried and clear
+– Remove plastics wrap after recycling. (Note: Reusable materials can be recycled without prior notice.)
+- Prevent hazardous material from entering your home if you have not already received written permission.
+Reference :
+Preplanations:
+Place in paper collection bins; remove all debris that might otherwise enter into storage containers.
+Recycling tips:
+Remove unwanted objects when properly sorted by proper care.
+Replace unused parts quickly so they don't become contaminated.
+Use appropriate","Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents"
+Plastic,63,0.188,0.0,0.188,0.045,"Preperation instructions:
+ - Reuse packaging materials when appropriate.
+Reference : Preplanations:
+Replace packaging materials after removal.
+Recycling information:
+Recycle debris from recyclables without label change directions.
+Refused products:
+Place garbage into separate bins with no labeling changes.
+Source: Recycling Information:
+Refusal instructions: Refusals should always follow applicable guidelines.
+Note: Disposal instructions: Reclaim material by name first! Use only the references listed above.
+Sources:","Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)"
+Textile Trash,86,0.263,0.167,0.263,0.069,"Preperation instructions:
+ - Ensure all products is clear and dry
+
+/or partially covered
+- Wash clothes before they're ready to go
+- Reassemble materials properly
+- Place recyclables under separate bins
+- Keep them cool while you prepare
+- Check with local authorities about how to dispose of paper debris
+Recycling tips:
+Do not discard food bags that may contain any type of material
+- Use small amounts of household equipment such as plastic wrap
+- Avoid packaging large enough so it doesn't break down easily","Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together"
+Vegetation,73,0.714,0.45,0.429,0.229,"Preperation instructions:
+ - Cut branches and remove non, plant material
+- Make separate from any garbage stream
+- Metal boxes or metal debris
+- Trash cans
+- Clean clothing items
+Answer : Preprepared meals should be separated by cut branch size
+Answer:- Cutting leaves to appropriate height (usually over 4 feet).
+- Rebuild food scraps before collection time
+Answer:(Recycling Assistant):
+Preplanations:
+Cut branches to correct length (typically under 4 foot).
+Replace non-plastic objects","Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams"

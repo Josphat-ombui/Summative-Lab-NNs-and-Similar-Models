@@ -1,0 +1,172 @@
+prompt,target,category,doc_id
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Recycling instructions:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol11:VEGETATION GUIDELINES
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)
+Recycling instructions:","Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)",Miscellaneous Trash,pol9:Special Handling Items
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.
+Answer:","Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.",Metal,advice:Metal
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required
+Answer:","Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required",Food Organics,pol3:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Paper?
+Reference:
+Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents
+Answer:","Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents",Paper,pol8:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film
+Answer:","PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Plastic,pol10:PLASTIC GUIDELINES
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+Recycling instructions:","Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers",Glass,pol2:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Benefits:
+Metal recycling saves significant energy compared to mining and processing raw materials.
+Answer:","Benefits:
+Metal recycling saves significant energy compared to mining and processing raw materials.",Metal,pol7:Benefits
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol13:CARDBOARD GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.
+Answer:","Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.",Glass,advice:Glass
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol10:VEGETATION GUIDELINES
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.
+Recycling instructions:","Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.",Cardboard,pol6:Collection Method

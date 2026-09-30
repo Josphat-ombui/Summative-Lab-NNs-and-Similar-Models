@@ -1,0 +1,3093 @@
+prompt,target,category,doc_id
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol11:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components
+Answer:","Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components",Metal,pol7:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.
+Answer:","Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.",Plastic,pol4:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Benefits:
+Metal recycling saves significant energy compared to mining and processing raw materials.
+Answer:","Benefits:
+Metal recycling saves significant energy compared to mining and processing raw materials.",Metal,pol7:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.
+Answer:","Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.",Textile Trash,pol1:Collection Method
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+Collection Method:
+Place in recycling bins or take to metal recycling centers.
+Recycling instructions:","Collection Method:
+Place in recycling bins or take to metal recycling centers.",Metal,pol7:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food
+Answer:","Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food",Food Organics,pol3:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.
+Answer:","Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.",Vegetation,advice:Vegetation
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Answer:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol14:TEXTILE TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol11:VEGETATION GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol6:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Recycling instructions:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol11:MISCELLANEOUS TRASH GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers
+Answer:","Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers",Metal,pol7:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.
+Answer:","Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.",Textile Trash,pol1:Collection Method
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Collection Method:
+Use dedicated food waste bins lined with compostable bags.
+Recycling instructions:","Collection Method:
+Use dedicated food waste bins lined with compostable bags.",Food Organics,pol3:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+Answer:","Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers",Glass,pol2:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Recycling instructions:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol12:MISCELLANEOUS TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol14:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Food Organics,pol12:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.
+Answer:","Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.",Vegetation,pol5:Benefits
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet
+Answer:","Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet",Metal,pol7:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Answer:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol13:TEXTILE TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol14:CARDBOARD GUIDELINES
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors
+Recycling instructions:","GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Glass,pol13:GLASS GUIDELINES
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers
+Recycling instructions:","Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers",Metal,pol7:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet
+Recycling instructions:","Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet",Metal,pol7:Non-Acceptable Items
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film
+Recycling instructions:","PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Plastic,pol10:PLASTIC GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together
+Answer:","Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together",Textile Trash,pol1:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.
+Answer:","Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.",Plastic,advice:Plastic
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.
+Recycling instructions:","Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.",Plastic,pol4:Benefits
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Answer:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol11:METAL GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+Resident disposal advice for Miscellaneous Trash waste items:
+- Hazardous items like batteries require special disposal.
+- Electronics should be taken to e-waste collection points.
+- Check for recyclable components before disposal.
+- Place truly non-recyclable items in general waste.
+- Consider if items can be repaired or repurposed.
+Common confusions:
+- Check for hidden recyclable components before disposal.
+Answer:","Resident disposal advice for Miscellaneous Trash waste items:
+- Hazardous items like batteries require special disposal.
+- Electronics should be taken to e-waste collection points.
+- Check for recyclable components before disposal.
+- Place truly non-recyclable items in general waste.
+- Consider if items can be repaired or repurposed.
+Common confusions:
+- Check for hidden recyclable components before disposal.",Miscellaneous Trash,advice:Miscellaneous Trash
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components
+Recycling instructions:","Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components",Metal,pol7:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol12:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil
+Answer:","Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil",Food Organics,pol3:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain
+Answer:","Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain",Glass,pol2:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.
+Answer:","Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.",Cardboard,pol6:Benefits
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol13:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Recycling instructions:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol10:VEGETATION GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.
+Answer:","Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.",Textile Trash,advice:Textile Trash
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.
+Recycling instructions:","Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.",Plastic,advice:Plastic
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.
+Recycling instructions:","Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.",Vegetation,pol5:Benefits
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together
+Recycling instructions:","Preparation Instructions:
+- Ensure all items are clean and dry
+- Remove non-textile components when possible
+- Bag similar items together",Textile Trash,pol1:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)
+Answer:","Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)",Paper,pol8:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol11:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals
+Answer:","Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals",Textile Trash,pol1:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.
+Recycling instructions:","Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.",Cardboard,advice:Cardboard
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol13:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors
+Answer:","GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Glass,pol13:GLASS GUIDELINES
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Recycling instructions:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol14:METAL GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)
+Answer:","Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)",Miscellaneous Trash,pol9:Special Handling Items
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Collection Method:
+Use dedicated food waste bins lined with compostable bags.
+Answer:","Collection Method:
+Use dedicated food waste bins lined with compostable bags.",Food Organics,pol3:Collection Method
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol10:MISCELLANEOUS TRASH GUIDELINES
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film
+Recycling instructions:","PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Plastic,pol11:PLASTIC GUIDELINES
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.
+Recycling instructions:","Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.",Glass,pol2:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Benefits:
+Textile recycling conserves resources and reduces landfill waste.
+Answer:","Benefits:
+Textile recycling conserves resources and reduces landfill waste.",Textile Trash,pol1:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol12:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.
+Recycling instructions:","Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.",Paper,pol8:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents
+Answer:","Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents",Paper,pol8:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.
+Recycling instructions:","Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.",Metal,advice:Metal
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.
+Answer:","Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.",Cardboard,pol6:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.
+Answer:","Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.",Glass,advice:Glass
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil
+Recycling instructions:","Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil",Food Organics,pol3:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)
+Answer:","Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)",Plastic,pol4:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain
+Recycling instructions:","Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain",Glass,pol2:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Answer:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol11:METAL GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Answer:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol14:METAL GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol10:VEGETATION GUIDELINES
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol14:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.
+Recycling instructions:","Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.",Glass,pol2:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol14:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.
+Recycling instructions:","Resident disposal advice for Glass waste items:
+- Remove caps, lids, and corks before recycling.
+- Rinse container before recycling.
+- Place in glass recycling bin, sorted by color if required.
+- Non-container glass may require special disposal.
+- Broken glass should be wrapped and labeled before disposal.
+Common confusions:
+- Window glass, drinking glasses, and ceramics should not go in container glass recycling.",Glass,advice:Glass
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Paper?
+Reference:
+Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings
+Answer:","Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings",Paper,pol8:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Answer:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol12:METAL GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet
+Answer:","Non-Acceptable Items:
+- Containers with hazardous material
+- Pressurized containers
+- Electronics with metal parts
+- Paint cans with residue
+- Scrap metal larger than 2 feet",Metal,pol7:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass
+Answer:","Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass",Glass,pol2:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers
+Answer:","Acceptable Items:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+- Metal containers",Metal,pol7:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging
+Recycling instructions:","Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging",Miscellaneous Trash,pol9:Waste Reduction Tips
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol11:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+Recycling instructions:","Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging",Plastic,pol4:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors
+Answer:","GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Glass,pol11:GLASS GUIDELINES
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.
+Recycling instructions:","Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.",Miscellaneous Trash,pol9:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean
+Answer:","Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean",Cardboard,pol6:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.
+Answer:","Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.",Glass,pol2:Benefits
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.
+Recycling instructions:","Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.",Cardboard,pol6:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol14:CARDBOARD GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.
+Answer:","Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.",Vegetation,pol5:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors
+Answer:","GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Glass,pol11:GLASS GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts
+Answer:","Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts",Cardboard,pol6:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food
+Answer:","Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food",Food Organics,pol3:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.
+Answer:","Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.",Food Organics,pol3:Benefits
+"Recycling query from a resident: ""Can I recycle Glass and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass
+Recycling instructions:","Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass",Glass,pol2:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol10:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts
+Answer:","Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts",Cardboard,pol6:Non-Acceptable Items
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.
+Recycling instructions:","Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.",Paper,advice:Paper
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Recycling instructions:","Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol9:Items That Cannot Be Recycled
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+Answer:","Acceptable Items:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers",Glass,pol2:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+Answer:","Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging",Plastic,pol4:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Recycling instructions:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol14:CARDBOARD GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Acceptable Items:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+- Tree prunings
+Answer:","Acceptable Items:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+- Tree prunings",Vegetation,pol5:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.
+Answer:","Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.",Miscellaneous Trash,pol9:Benefits
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams
+Recycling instructions:","Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams",Vegetation,pol5:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Food Organics,pol12:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.
+Answer:","Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.",Vegetation,advice:Vegetation
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation
+Answer:","Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation",Vegetation,pol5:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol9:Items That Cannot Be Recycled
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts
+Answer:","Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts",Textile Trash,pol1:Non-Acceptable Items
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation
+Recycling instructions:","Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation",Vegetation,pol5:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.
+Answer:","Benefits:
+Recycled vegetation becomes valuable mulch and compost for community use.",Vegetation,pol5:Benefits
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol12:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts
+Recycling instructions:","Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts",Textile Trash,pol1:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol13:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.
+Answer:","Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.",Cardboard,advice:Cardboard
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components
+Answer:","Preparation Instructions:
+- Rinse containers to remove food residue
+- Crush cans if possible to save space
+- Remove non-metal components",Metal,pol7:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+Answer:","FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags",Food Organics,pol12:FOOD ORGANICS GUIDELINES
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+Recycling instructions:","FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags",Food Organics,pol12:FOOD ORGANICS GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol11:MISCELLANEOUS TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings
+Answer:","Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings",Paper,pol8:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging
+Answer:","Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging",Miscellaneous Trash,pol9:Waste Reduction Tips
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.
+Recycling instructions:","Collection Method:
+Place items in dedicated textile recycling bins or donate to local thrift stores.",Textile Trash,pol1:Collection Method
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Miscellaneous Trash waste items:
+- Hazardous items like batteries require special disposal.
+- Electronics should be taken to e-waste collection points.
+- Check for recyclable components before disposal.
+- Place truly non-recyclable items in general waste.
+- Consider if items can be repaired or repurposed.
+Common confusions:
+- Check for hidden recyclable components before disposal.
+Recycling instructions:","Resident disposal advice for Miscellaneous Trash waste items:
+- Hazardous items like batteries require special disposal.
+- Electronics should be taken to e-waste collection points.
+- Check for recyclable components before disposal.
+- Place truly non-recyclable items in general waste.
+- Consider if items can be repaired or repurposed.
+Common confusions:
+- Check for hidden recyclable components before disposal.",Miscellaneous Trash,advice:Miscellaneous Trash
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors
+Answer:","GLASS GUIDELINES:
+- Glass bottles (all colors)
+- Glass jars
+- Glass food containers
+- Glass beverage containers
+- Window glass or mirrors",Glass,pol13:GLASS GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol13:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol13:CARDBOARD GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Answer:","Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol6:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol11:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals
+Recycling instructions:","Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals",Textile Trash,pol1:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film
+Answer:","PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Plastic,pol10:PLASTIC GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+Collection Method:
+Place in recycling bins or take to metal recycling centers.
+Answer:","Collection Method:
+Place in recycling bins or take to metal recycling centers.",Metal,pol7:Collection Method
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol10:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts
+Answer:","Non-Acceptable Items:
+- Wet or moldy textiles
+- Heavily soiled items
+- Carpets and rugs
+- Footwear
+- Items with significant non-textile parts",Textile Trash,pol1:Non-Acceptable Items
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol14:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol11:MISCELLANEOUS TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Answer:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol13:TEXTILE TRASH GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean
+Answer:","Preparation Instructions:
+- Remove all non-cardboard packaging
+- Flatten boxes to save space
+- Keep dry and clean",Cardboard,pol6:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol10:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required
+Answer:","Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required",Food Organics,pol3:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Recycling instructions:","Acceptable Items:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol6:Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.
+Answer:","Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.",Food Organics,pol3:Benefits
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.
+Answer:","Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.",Food Organics,advice:Food Organics
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol13:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Textile Trash?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol14:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)
+Answer:","Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)",Plastic,pol4:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.
+Answer:","Benefits:
+Glass is 100% recyclable and can be recycled endlessly without loss of quality.",Glass,pol2:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol12:MISCELLANEOUS TRASH GUIDELINES
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.
+Recycling instructions:","Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.",Food Organics,advice:Food Organics
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Recycling instructions:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol12:METAL GUIDELINES
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.
+Recycling instructions:","Benefits:
+Food waste recycling reduces methane emissions and creates valuable compost.",Food Organics,pol3:Benefits
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers
+Answer:","Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers",Plastic,pol4:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol10:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.
+Answer:","Collection Method:
+Flatten and place in recycling bins or take to cardboard recycling centers.",Cardboard,pol6:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol14:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Glass,pol13:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol10:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food
+Recycling instructions:","Acceptable Items:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+- Eggshells
+- Leftovers and spoiled food",Food Organics,pol3:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Collection Method:
+Place in dedicated recycling bins. Check local guidelines for specific plastic types accepted.
+Recycling instructions:","Collection Method:
+Place in dedicated recycling bins. Check local guidelines for specific plastic types accepted.",Plastic,pol4:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Cardboard?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol14:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol10:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol12:MISCELLANEOUS TRASH GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol11:VEGETATION GUIDELINES
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)
+Recycling instructions:","Preparation Instructions:
+- Rinse containers
+- Remove lids and caps (recycle separately)
+- Check for recycling codes (1-7)",Plastic,pol4:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.
+Answer:","Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.",Paper,advice:Paper
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging
+Answer:","Waste Reduction Tips:
+- Consider reusable alternatives
+- Repair broken items when possible
+- Donate usable items
+- Choose products with less packaging",Miscellaneous Trash,pol9:Waste Reduction Tips
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol12:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Benefits:
+Textile recycling conserves resources and reduces landfill waste.
+Recycling instructions:","Benefits:
+Textile recycling conserves resources and reduces landfill waste.",Textile Trash,pol1:Benefits
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Recycling instructions:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol13:TEXTILE TRASH GUIDELINES
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.
+Recycling instructions:","Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.",Textile Trash,advice:Textile Trash
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.
+Answer:","Resident disposal advice for Cardboard waste items:
+- If contaminated with food, tear off contaminated parts.
+- Flatten boxes before placing in cardboard recycling.
+- For waxed cardboard, check local guidelines as it may not be recyclable.
+- Break down large boxes to save space.
+- Remove any plastic, styrofoam, or metal parts before recycling.
+Common confusions:
+- Pizza boxes with food stains should go in organic waste or general trash, not recycling.",Cardboard,advice:Cardboard
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents
+Recycling instructions:","Preparation Instructions:
+- Keep paper dry and clean
+- Remove plastic wrappings, windows, or bindings
+- Shred confidential documents",Paper,pol8:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Food Organics and how should I prepare it?""
+Policy reference:
+Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required
+Recycling instructions:","Preparation Instructions:
+- Remove all packaging
+- Drain excess liquids
+- Use compostable bags if required",Food Organics,pol3:Preparation Instructions
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass
+Answer:","Non-Acceptable Items:
+- Window glass or mirrors
+- Drinking glasses
+- Ceramics or pottery
+- Light bulbs
+- Pyrex or heat-resistant glass",Glass,pol2:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.
+Answer:","Resident disposal advice for Textile Trash waste items:
+- Look for textile recycling programs in your area.
+- If no recycling options exist, place in general waste.
+- Cut into rags for home use if appropriate.
+- Consider donating if still usable.
+- Some retailers accept old clothing for recycling.
+Common confusions:
+- Some textiles can be recycled or donated, even if worn or torn.",Textile Trash,advice:Textile Trash
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Collection Method:
+Place in dedicated recycling bins. Check local guidelines for specific plastic types accepted.
+Answer:","Collection Method:
+Place in dedicated recycling bins. Check local guidelines for specific plastic types accepted.",Plastic,pol4:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol10:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Recycling instructions:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol14:TEXTILE TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol11:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)
+Answer:","Special Handling Items:
+- Batteries (take to dedicated collection points)
+- Electronics (e-waste recycling centers)
+- Light bulbs (hardware store collection bins)
+- Paint and chemicals (hazardous waste facilities)
+- Medications (pharmacy take-back programs)",Miscellaneous Trash,pol9:Special Handling Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol14:VEGETATION GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.
+Answer:","Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.",Paper,pol8:Collection Method
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Recycling instructions:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol11:METAL GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Paper?
+Reference policy:
+Benefits:
+Paper recycling saves trees, reduces water pollution, and saves energy.
+Answer:","Benefits:
+Paper recycling saves trees, reduces water pollution, and saves energy.",Paper,pol8:Benefits
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+Answer:","TEXTILE TRASH GUIDELINES:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric",Textile Trash,pol14:TEXTILE TRASH GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Acceptable Items:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+- Tree prunings
+Answer:","Acceptable Items:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+- Tree prunings",Vegetation,pol5:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.
+Answer:","Resident disposal advice for Metal waste items:
+- For aerosol cans, ensure they are completely empty and not pressurized.
+- Ensure it is clean and empty before recycling.
+- Place in metal recycling bin.
+- Remove any non-metal parts if possible.
+- Large metal items should be taken to recycling center.
+Common confusions:
+- Items with mixed materials should be separated if possible. Check if your facility accepts aerosol cans.",Metal,advice:Metal
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol10:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers
+Answer:","Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers",Plastic,pol4:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Plastic?
+Reference policy:
+Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+Answer:","Acceptable Items:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging",Plastic,pol4:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.
+Recycling instructions:","Resident disposal advice for Vegetation waste items:
+- Large branches may need to be cut to appropriate size.
+- Consider home composting for small amounts.
+- Some municipalities offer special collection services.
+- Check if your area has seasonal leaf collection.
+- Place in green waste bin or compost.
+Common confusions:
+- Invasive species may require special disposal. Large branches might need separate collection.",Vegetation,advice:Vegetation
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.
+Answer:","Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.",Glass,pol2:Collection Method
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Recycling instructions:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol10:MISCELLANEOUS TRASH GUIDELINES
+"Recycling query from a resident: ""Can I recycle Textile Trash and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol13:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Glass?
+Reference policy:
+Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.
+Answer:","Collection Method:
+Place in dedicated glass recycling bins. Some areas require color sorting.",Glass,pol2:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Paper?
+Reference:
+Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.
+Answer:","Collection Method:
+Place in paper recycling bins or mixed recycling where accepted.",Paper,pol8:Collection Method
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings
+Recycling instructions:","Non-Acceptable Items:
+- Food-soiled paper
+- Waxed paper
+- Paper towels and napkins
+- Thermal receipt paper
+- Paper with plastic coatings",Paper,pol8:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Miscellaneous Trash?
+Reference policy:
+Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.
+Answer:","Benefits:
+Proper sorting ensures maximum recycling rates and minimizes environmental impact.",Miscellaneous Trash,pol9:Benefits
+"Recycling query from a resident: ""Can I recycle Vegetation and how should I prepare it?""
+Policy reference:
+Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.
+Recycling instructions:","Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.",Vegetation,pol5:Collection Method
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Benefits:
+Paper recycling saves trees, reduces water pollution, and saves energy.
+Recycling instructions:","Benefits:
+Paper recycling saves trees, reduces water pollution, and saves energy.",Paper,pol8:Benefits
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.
+Answer:","Collection Method:
+Use dedicated yard waste bins or paper yard waste bags.",Vegetation,pol5:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.
+Answer:","Benefits:
+Recycling cardboard saves trees and reduces landfill volume significantly.",Cardboard,pol6:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Plastic,pol10:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil
+Answer:","Non-Acceptable Items:
+- Packaging of any kind
+- Stickers on produce
+- Non-compostable bags
+- Liquids (drain first)
+- Grease or cooking oil",Food Organics,pol3:Non-Acceptable Items
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals
+Answer:","Acceptable Items:
+- Clean clothing (all conditions)
+- Towels, sheets, and linens
+- Fabric scraps
+- Curtains and cloth napkins
+- Handbags and backpacks made of fabric
+- Soft toys and stuffed animals",Textile Trash,pol1:Acceptable Items
+"Recycling query from a resident: ""Can I recycle Paper and how should I prepare it?""
+Policy reference:
+Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)
+Recycling instructions:","Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)",Paper,pol8:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.
+Answer:","Resident disposal advice for Food Organics waste items:
+- If no compost available, place in general waste.
+- Keep separate from recyclable materials.
+- Use compostable bags for collection if required.
+- Can be used in home composting system (except meat and dairy in some cases).
+- Place in organic waste or compost bin.
+Common confusions:
+- Meat and dairy products may be restricted in some composting systems.",Food Organics,advice:Food Organics
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation
+Answer:","Non-Acceptable Items:
+- Soil or dirt
+- Rocks or gravel
+- Treated wood
+- Plastic bags
+- Invasive plants or diseased vegetation",Vegetation,pol5:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Cardboard?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Cardboard,pol13:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol12:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Glass?
+Reference:
+Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain
+Answer:","Preparation Instructions:
+- Rinse containers
+- Remove caps and lids (recycle separately)
+- Labels can remain",Glass,pol2:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Miscellaneous Trash and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Miscellaneous Trash,pol11:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+Collection Method:
+Place in recycling bins or take to metal recycling centers.
+Answer:","Collection Method:
+Place in recycling bins or take to metal recycling centers.",Metal,pol7:Collection Method
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Paper?
+Reference:
+Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.
+Answer:","Resident disposal advice for Paper waste items:
+- Remove any plastic or metal attachments before recycling.
+- If stained with food or oil, place in general waste.
+- Place in paper recycling bin.
+- Shred sensitive documents before recycling.
+- Ensure it is clean and dry before recycling.
+Common confusions:
+- Often confused with paperboard or cardboard. Shredded paper may require special handling.",Paper,advice:Paper
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes
+Recycling instructions:","CARDBOARD GUIDELINES:
+- Corrugated cardboard boxes
+- Paperboard (cereal boxes, etc.)
+- Cardboard packaging
+- Cardboard tubes
+- Clean pizza boxes",Cardboard,pol13:CARDBOARD GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Metal?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol11:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Food Organics?
+Reference:
+Collection Method:
+Use dedicated food waste bins lined with compostable bags.
+Answer:","Collection Method:
+Use dedicated food waste bins lined with compostable bags.",Food Organics,pol3:Collection Method
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams
+Answer:","Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams",Vegetation,pol5:Preparation Instructions
+"Recycling query from a resident: ""Can I recycle Plastic and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers
+Recycling instructions:","Non-Acceptable Items:
+- Plastic bags and film
+- Polystyrene foam (code #6)
+- Containers with food residue
+- Mixed material packaging
+- Black plastic containers",Plastic,pol4:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Paper?
+Reference:
+Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)
+Answer:","Acceptable Items:
+- Office paper and mail
+- Newspapers and magazines
+- Books and catalogs
+- Paper bags
+- Wrapping paper (non-metallic)
+- Shredded paper (in paper bags)",Paper,pol8:Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.
+Answer:","Benefits:
+Plastic recycling reduces petroleum consumption and greenhouse gas emissions.",Plastic,pol4:Benefits
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams
+Answer:","Preparation Instructions:
+- Cut branches to appropriate length (usually under 4 feet)
+- Remove non-plant materials
+- Keep separate from other waste streams",Vegetation,pol5:Preparation Instructions
+"Metro City policy lookup.
+Question: How to recycle Textile Trash?
+Reference policy:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Textile Trash,pol13:GENERAL REQUIREMENTS
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Vegetation?
+Reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Answer:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Vegetation,pol11:GENERAL REQUIREMENTS
+"Recycling query from a resident: ""Can I recycle Cardboard and how should I prepare it?""
+Policy reference:
+Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts
+Recycling instructions:","Non-Acceptable Items:
+- Waxed cardboard
+- Cardboard with food residue
+- Cardboard with plastic linings
+- Foam inserts
+- Packing peanuts",Cardboard,pol6:Non-Acceptable Items
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","Items That Cannot Be Recycled:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol9:Items That Cannot Be Recycled
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Metal?
+Reference:
+METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans
+Answer:","METAL GUIDELINES:
+- Aluminum cans
+- Steel food cans
+- Metal lids and bottle caps
+- Clean aluminum foil
+- Empty aerosol cans",Metal,pol12:METAL GUIDELINES
+"Recycling query from a resident: ""Can I recycle Metal and how should I prepare it?""
+Policy reference:
+GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate
+Recycling instructions:","GENERAL REQUIREMENTS:
+- Place recyclables in appropriate bins
+- Ensure materials are clean and properly sorted
+- Follow collection schedules
+- Keep hazardous materials separate",Metal,pol11:GENERAL REQUIREMENTS
+"Metro City policy lookup.
+Question: How to recycle Food Organics?
+Reference policy:
+FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags
+Answer:","FOOD ORGANICS GUIDELINES:
+- Fruit and vegetable scraps
+- Meat and fish (including bones)
+- Dairy products
+- Bread and grains
+- Coffee grounds and tea bags",Food Organics,pol12:FOOD ORGANICS GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Miscellaneous Trash?
+Reference:
+MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging
+Answer:","MISCELLANEOUS TRASH GUIDELINES:
+- Multi-material items
+- Heavily soiled packaging
+- Certain plastic types (check local guidelines)
+- Broken household items
+- Non-recyclable packaging",Miscellaneous Trash,pol10:MISCELLANEOUS TRASH GUIDELINES
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.
+Answer:","Resident disposal advice for Plastic waste items:
+- Remove labels if possible.
+- Plastic bags can be returned to supermarket collection points.
+- Rinse container before recycling.
+- If unmarked or non-recyclable plastic, place in general waste.
+- Check recycling number on bottom and sort accordingly.
+Common confusions:
+- Plastic bags often can not go in general recycling. Check for recycling numbers (1-7) on containers.",Plastic,advice:Plastic
+"You are a recycling assistant for Metro City. Answer using only the reference policy.
+Question: How to recycle Plastic?
+Reference:
+PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film
+Answer:","PLASTIC GUIDELINES:
+- PET bottles and containers (code #1)
+- HDPE containers (code #2)
+- PP containers (code #5)
+- Clean plastic packaging
+- Plastic bags and film",Plastic,pol11:PLASTIC GUIDELINES
+"Metro City policy lookup.
+Question: How to recycle Vegetation?
+Reference policy:
+VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)
+Answer:","VEGETATION GUIDELINES:
+- Grass clippings
+- Leaves and small branches
+- Flowers and plants
+- Garden trimmings
+- Weeds (non-invasive)",Vegetation,pol14:VEGETATION GUIDELINES
