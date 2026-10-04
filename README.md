@@ -10,7 +10,7 @@ grounded in municipal policy, with a safeguard that never shows a resident unver
 
 | File | Description |
 |---|---|
-| `waste_management_summative_BEST.ipynb` | The master notebook. All five rubric parts, run top to bottom. |
+| `EcoSort_Summative_Lab.ipynb` | The master notebook. All five rubric parts, run top to bottom. |
 | `waste_descriptions.csv` | 5,000+ generated resident waste descriptions with category labels. |
 | `waste_policy_documents.json` | Metro City policy documents used by the RAG component (Part 4). |
 | RealWaste image folders | Not included in this repository; see Data below. |
