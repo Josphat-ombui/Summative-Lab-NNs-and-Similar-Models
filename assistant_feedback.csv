@@ -9,3 +9,13 @@ timestamp,input_type,input,predicted,confidence,correct_category,was_correct,hel
 2026-10-03T00:44:31,image,realwaste\realwaste-main\RealWaste\Plastic\Plastic_730.jpg,Plastic,0.997,Plastic,True,True,
 2026-10-03T00:44:31,image,realwaste\realwaste-main\RealWaste\Textile Trash\Textile Trash_232.jpg,Textile Trash,1.0,Textile Trash,True,True,
 2026-10-03T00:44:31,image,realwaste\realwaste-main\RealWaste\Vegetation\Vegetation_45.jpg,Vegetation,1.0,Vegetation,True,True,
+2026-10-04T00:15:09,text,crisp packet,Paper,0.9916,Plastic,False,False,Crisp packets are plastic film
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Cardboard\Cardboard_453.jpg,Cardboard,1.0,Cardboard,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Food Organics\Food Organics_228.jpg,Miscellaneous Trash,0.699,Food Organics,False,False,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Glass\Glass_235.jpg,Glass,0.9553,Glass,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Metal\Metal_532.jpg,Metal,0.999,Metal,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Miscellaneous Trash\Miscellaneous Trash_45.jpg,Textile Trash,0.6043,Miscellaneous Trash,False,False,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Paper\Paper_446.jpg,Paper,0.9825,Paper,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Plastic\Plastic_730.jpg,Plastic,0.997,Plastic,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Textile Trash\Textile Trash_232.jpg,Textile Trash,1.0,Textile Trash,True,True,
+2026-10-04T00:15:12,image,finalist\realwaste\realwaste-main\RealWaste\Vegetation\Vegetation_45.jpg,Vegetation,1.0,Vegetation,True,True,
